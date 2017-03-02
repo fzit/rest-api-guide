@@ -1,7 +1,6 @@
-See:  
-https://github.com/zhaotoday/rest-api-guide  
-http://www.ruanyifeng.com/blog/2014/05/restful_api.html  
-https://github.com/cocoajin/http-api-design-ZH_CN  
-https://github.com/aisuhua/restful-api-design-references  
-https://developer.github.com/v3/  
-https://segmentfault.com/bookmark/1230000002521721
+- [简易的 RESTful API 规范](https://github.com/zhaotoday/rest-api-guide)
+- [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+- [HTTP API 设计指南](https://github.com/cocoajin/http-api-design-ZH_CN)
+- [RESTful API 设计参考文献列表](https://github.com/aisuhua/restful-api-design-references)
+- [GitHub Developer](https://developer.github.com/v3/)
+- [HTTP API 设计指南](https://segmentfault.com/bookmark/1230000002521721)
